@@ -9,7 +9,7 @@ INSTALL_DIR="/opt/node_exporter"
 PID="$$"
 TEMP_DIR="/tmp/node_exporter_${PID}"
 USER="node_exporter"
-#GRP="node_exporter"
+GRP="node_exporter"
 
 #
 # user check
